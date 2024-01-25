@@ -1,0 +1,21 @@
+person
+bicycle
+bus
+car
+bomb
+cat
+cellphone
+chair
+cow
+dog
+elephant
+gun
+keyboard
+motorbike
+watch
+remote
+traffic light
+tvmonitor
+granade
+laptop
+train
